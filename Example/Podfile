@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DateUtils_Tests' do
+  pod 'DateUtils', :path => '../'
+  
+  
+end
